@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @willtorresf
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning React JS. My next move is Vue JS. I want to be a Front-End Developer! 
+- 👀 I’m a Front-End Development Jr
+- 🌱 I’m currently learning JavaScript and React JS.
 - 💞️ I’m looking to collaborate on front-end projects
 - 📫 You can find me on my email: willtorres94@hotmail.com
 
