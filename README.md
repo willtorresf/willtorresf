@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @willtorresf
-- 👀 I’m a Front-End Development Jr
+- 👀 I’m into Front-End Development
 - 🌱 I’m currently learning JavaScript and React JS.
 - 💞️ I’m looking to collaborate on front-end projects
 - 📫 You can find me on my email: willtorres94@hotmail.com
